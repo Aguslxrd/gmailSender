@@ -21,7 +21,7 @@ namespace MailSender
                 string gmailPass = "mola123MOLA";
 
                 //receiver gmail
-                string gmailUserReceiver = "suffodamian02@gmail.com";
+                string gmailUserReceiver = "putAngmailToSend@gmail.com";
 
                 MimeMessage msg = new MimeMessage();
                 msg.From.Add(new MailboxAddress("testMSG", gmailUser));
