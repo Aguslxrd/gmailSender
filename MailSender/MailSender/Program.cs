@@ -17,7 +17,7 @@ namespace MailSender
             {
                 String server = "smtp.gmail.com"; //server smtp
                 int port = 587; //default port gmail smtp
-                string gmailUser = "aguslxrd@gmail.com"; //your gmail
+                string gmailUser = "examplegmail@gmail.com"; //your gmail
                 string gmailPass = "mola123MOLA";
 
                 //receiver gmail
