@@ -1,2 +1,2 @@
 # gmailSender
-test of some email senders api
+test of some email senders library
